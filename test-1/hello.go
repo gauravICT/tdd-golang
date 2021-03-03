@@ -6,7 +6,7 @@ const helloPrefix = "Hello, "
 
 // Hello :
 func Hello(name string) string {
-	return helloPrefix + name + "!"
+	return helloPrefix + name
 }
 
 func main() {
